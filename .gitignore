@@ -28,3 +28,4 @@ build
 *.swp
 logs/
 ~*
+Projet/.DS_Store
